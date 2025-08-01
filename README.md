@@ -21,7 +21,7 @@ Whether you're a **data analyst, student, educator, or business user**, this app
 ## 🛠️ Setup Instructions
 
 1. **Replace Gemini API Key**  
-   Create a `.env` file in the project folder and add your Gemini API key like this:  
+   Nevigate to the .env file add your gemini api key 
    `GOOGLE_API_KEY=your_gemini_api_key_here`
 
 2. **Open Project Folder in Command Prompt**  
